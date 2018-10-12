@@ -18,9 +18,9 @@ The **National Cyclone Risk Mitigation Project** (https://ncrmp.gov.in/dos-donts
 **Datasets:**
 
 We plan to use following datasets for study but we might add some more resources if required:
-National Institute of Informatics Japan, Digital Typhoon: http://agora.ex.nii.ac.jp/digital-typhoon/links.html.en
-Stormwatch by Weather.org: https://www.weather.org/stormwatch/
-ISRO Disaster Management Support Programme, NRSC Decision Support Centre: http://bhuvan-noeda.nrsc.gov.in/disaster/disaster/disaster.php?id=cyclone
+- National Institute of Informatics Japan, Digital Typhoon: http://agora.ex.nii.ac.jp/digital-typhoon/links.html.en
+- Stormwatch by Weather.org: https://www.weather.org/stormwatch/
+- ISRO Disaster Management Support Programme, NRSC Decision Support Centre: http://bhuvan-noeda.nrsc.gov.in/disaster/disaster/disaster.php?id=cyclone
  
 **On what we would build?**
 - For Complex Event Processing: Microsoft Complex Event Processing Engine, Azure Stream Analytics
